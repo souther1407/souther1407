@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi ^^
 
 <!--
 **souther1407/souther1407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I am Eric, a Full Stack Developer focused on Back End, from Argentina. I am studying NodeJS with Express and excited for learning new technologies, such as Typescript, MongoDB, etc.
+Please, enjoy my Readme xd
+
+### My proyects
