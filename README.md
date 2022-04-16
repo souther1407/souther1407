@@ -22,5 +22,9 @@ Please, enjoy my Readme xd
 ### My proyects
 
 - Recipes App 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cuesta_del_obispo_01.jpg/640px-Cuesta_del_obispo_01.jpg"/>
+<img src="/imgs/Food-App.png"/>
+<img src="/imgs/Food-App2.png"/>
+
+- CryptoDashboard App
+<img src="/imgs/CryptoDashboard.png" />
 
