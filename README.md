@@ -20,3 +20,7 @@ I am Eric, a Full Stack Developer focused on Back End, from Argentina. I am stud
 Please, enjoy my Readme xd
 
 ### My proyects
+
+- Recipes App 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cuesta_del_obispo_01.jpg/640px-Cuesta_del_obispo_01.jpg"/>
+
