@@ -25,6 +25,19 @@ Please, enjoy my Readme xd
 <img src="/imgs/Food-App.png"/>
 <img src="/imgs/Food-App2.png"/>
 
+<hr/>
+
 - CryptoDashboard App
 <img src="/imgs/CryptoDashboard.png" />
+
+### Skill Stack
+
+
+- NodeJS
+- Sequelize
+- Express
+- ReactJS
+- CSS
+- HTML
+
 
